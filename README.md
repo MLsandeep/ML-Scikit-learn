@@ -11,4 +11,8 @@
 * Cancer prediction using Neural Network model
 * Model Evaluation and Optimization using Cross Validation & Grid Search CV
 * Model Preprocessing
+ ** binarization
+ ** scaling
+ ** normalization
+ ** mean removal, etc.
 
