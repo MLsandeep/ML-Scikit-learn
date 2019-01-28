@@ -9,4 +9,6 @@
 * Cancer prediction using Random Forest model
 * Cancer prediction using Support Vector Machine model
 * Cancer prediction using Neural Network model
+* Model Evaluation and Optimization using Cross Validation & Grid Search CV
+* Model Preprocessing
 
